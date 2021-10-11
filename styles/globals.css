@@ -1,0 +1,41 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  padding-top: 2em;
+}
+
+.swiper-slide {
+  margin-bottom: 1em;
+  padding: 1em;
+}
+
+.spending-overview {
+  background: #fff;
+  margin: 0 1em;
+  padding: 1em;
+}
+
+h3 {
+  margin: 1em 0;
+}
+
+.owner-block {
+  padding: 1em;
+  margin-bottom: 1em;
+  background: linear-gradient(118.72deg, #FFF5F7 39.26%, #FFFBD8 101.66%);
+}
